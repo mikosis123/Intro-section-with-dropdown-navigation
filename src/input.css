@@ -1,3 +1,14 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+.fronter {
+    min-height: 590px;
+    min-width: 504px;
+    object-fit: contain;
+    max-height: 591px;
+    max-width: 505px;
+}
+
+.text-8xl {
+    font-size: 80px;
+}
